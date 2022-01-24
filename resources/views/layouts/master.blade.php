@@ -32,9 +32,9 @@
     <body id="home" data-bs-spy="scroll" data-bs-offset="70">
 
         <!-- Start Preloader Area -->
-        <div class="preloader">
+        {{-- <div class="preloader">
 			<div class="spinner"></div>
-		</div>
+		</div> --}}
         <!-- End Preloader Area -->
 
         <!-- Start Navbar Area -->
@@ -52,8 +52,8 @@
                 </ul>
 
                 <div class="others-options">
-                    <a href="http://wa.me/6283180012053" class="default-btn main-color">
-                       <i class="fas fa-shopping-cart"></i> Order sekarang</a>
+                    <a href="#shop" class="default-btn main-color">
+                       <i class="fas fa-shopping-cart"></i> Pesan sekarang</a>
                 </div>
             </div>
         </nav>

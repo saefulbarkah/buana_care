@@ -52,7 +52,7 @@
 
                         <div class="col-lg-6 col-md-12">
                             <div class="headphone-about-content">
-                                <h2>Buana care</h2>
+                                <h2>Buana Care</h2>
                                 <p>Buana care kami bergerak di bidang penjualan produk masker, dengan berbagai macam motif yang menarik dan nyaman dipakai, produk tersedia berupa produk jadi atau system pre order, kami juga memberikan keunggulan produk diantaranya : </p>
                                 <ul>
                                     <li><i class="flaticon-check-square"></i> Nyaman di pakai</li>
@@ -173,7 +173,7 @@
                         <div class="headphone-specifications-content">
                             <div class="single-specifications">
                                 <h4>Warna</h4>
-                                <span>Hitam / Putih / Pink</span>
+                                <span>Hitam / Putih</span>
                             </div>
 
                             <div class="single-specifications">
@@ -207,7 +207,7 @@
                 <div class="container">
                     <div class="section-title">
                         <h2>Produk Kami</h2>
-                        <p>Dapatkan diskon 10% dengan membeli 1 box paket setiap pembelianya</p>
+                        <p>Dapatkan diskon 10% dengan membeli 1 box isi 50pcs setiap pembelianya</p>
                     </div>
 
                     <div class="row">
@@ -217,7 +217,7 @@
 
                                 <h3>Masker Hitam</h3>
 
-                                <a href="#" class="btn btn-primary">Order sekarang</a>
+                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
                             </div>
                         </div>
 
@@ -227,7 +227,7 @@
 
                                 <h3>Masker Putih</h3>
 
-                                <a href="#" class="btn btn-primary">Order sekarang</a>
+                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
                             </div>
                         </div>
 
@@ -237,7 +237,7 @@
 
                                 <h3>Masker Trendy</h3>
 
-                                <a href="#" class="btn btn-primary">Order sekarang</a>
+                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
                             </div>
                         </div>
 
@@ -247,7 +247,7 @@
 
                                 <h3>Masker Medis</h3>
 
-                                <a href="#" class="btn btn-primary">Order sekarang</a>
+                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
                             </div>
                         </div>
                     </div>

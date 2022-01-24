@@ -216,7 +216,7 @@ a:hover {
   left: 0;
   bottom: 0;
   background: -webkit-gradient(linear, left top, left bottom, from(#00e4ff), color-stop(#00eef2), color-stop(#00f6dc), color-stop(#15fbbc), to(#69ff97));
-  background: linear-gradient(to bottom, #00e4ff, #00eef2, #00f6dc, #15fbbc, #69ff97);
+  background: linear-gradient(to bottom, #e2ff00, #eef200, #f6ee00, #fbe915, #ffe169);
   z-index: -1;
   -webkit-transition: 0.5s;
   transition: 0.5s;
