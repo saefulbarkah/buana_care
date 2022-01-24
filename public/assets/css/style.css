@@ -1230,7 +1230,9 @@ About Area CSS
   border-right: 2px solid #f1f8ff;
 }
 
-
+.headphone-about-area{
+    height: 100vh;
+}
 
 .headphone-about-content h2 {
   margin-bottom: 10px;

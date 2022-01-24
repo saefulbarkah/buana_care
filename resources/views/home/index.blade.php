@@ -11,7 +11,8 @@
                                     <span>#yukMaskerin  #Diskon10%</span>
                                 </div>
                                 <h1>Nyaman di pakai dan kualitas terbaik</h1>
-                                <a href="#shop" class="btn btn-primary">Lihat produk</a>
+                                <a href="#shop" class="btn btn-primary">
+                                    <i class="fas fa-search"></i> Lihat produk</a>
                             </div>
                         </div>
 
@@ -34,14 +35,14 @@
                 <div class="dot-shape1"><img src="{{asset('assets/img/shape-image/corona-orange-15px.png') }}" alt="image"></div>
                 <div class="dot-shape2"><img src="{{asset('assets/img/shape-image/corona-pink-20px.png') }}" alt="image"></div>
                 <div class="dot-shape3"><img src="{{asset('assets/img/shape-image/corona-red.png') }}" alt="image"></div>
-                <div class="dot-shape4"><img src="{{asset('assets/img/shape-image/shield-yellow.png') }}" alt="image"></div>
+                <div class="dot-shape4"><img src="{{asset('assets/img/shape-image/corona-pink-20px.png') }}" alt="image"></div>
                 <div class="dot-shape5"><img src="{{asset('assets/img/shape-image/corona-green-15px.png') }}" alt="image"></div>
                 <div class="dot-shape6"><img src="{{asset('assets/img/shape-image/shield.png') }}" alt="image"></div>
             </div>
             <!-- End Main Banner Area -->
 
             <!-- Start About Area -->
-            <section id="about" class="headphone-about-area mt-3">
+            <section id="about" class="headphone-about-area">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-12">
@@ -163,7 +164,7 @@
             <!-- End Headphone Design Area --> --}}
 
             <!-- Start Headphone Specifications Area -->
-            <section id="detail" class="headphone-specifications-area ptb-120 jarallax" data-jarallax='{"speed": 0.3}'>
+            <section id="spec" class="headphone-specifications-area ptb-120 jarallax" data-jarallax='{"speed": 0.3}'>
                 <div class="container">
                     <div class="section-title">
                         <h2>Detail Produk</h2>
@@ -206,7 +207,7 @@
             <section id="shop" class="shop-area ptb-120">
                 <div class="container">
                     <div class="section-title">
-                        <h2>Produk Kami</h2>
+                        <h2>Produk</h2>
                         <p>Dapatkan diskon 10% dengan membeli 1 box isi 50pcs setiap pembelianya</p>
                     </div>
 
@@ -217,7 +218,9 @@
 
                                 <h3>Masker Hitam</h3>
 
-                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
+                                <a href="https://wa.me/6283180012053" target="_blank" class="btn btn-primary">
+                                   <i class="fas fa-shopping-cart"></i> Pesan sekarang
+                                </a>
                             </div>
                         </div>
 
@@ -227,7 +230,8 @@
 
                                 <h3>Masker Putih</h3>
 
-                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
+                                <a href="https://wa.me/6283180012053" target="_blank" class="btn btn-primary">
+                                    <i class="fas fa-shopping-cart"></i> Pesan sekarang</a>
                             </div>
                         </div>
 
@@ -237,7 +241,8 @@
 
                                 <h3>Masker Trendy</h3>
 
-                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
+                                <a href="https://wa.me/6283180012053" target="_blank" class="btn btn-primary">
+                                    <i class="fas fa-shopping-cart"></i> Pesan sekarang</a>
                             </div>
                         </div>
 
@@ -247,7 +252,8 @@
 
                                 <h3>Masker Medis</h3>
 
-                                <a href="https://wa.me/6283180012053" class="btn btn-primary">Pesan sekarang</a>
+                                <a href="https://wa.me/6283180012053" target="_blank" class="btn btn-primary">
+                                    <i class="fas fa-shopping-cart"></i> Pesan sekarang</a>
                             </div>
                         </div>
                     </div>

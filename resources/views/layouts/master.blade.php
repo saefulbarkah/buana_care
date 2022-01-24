@@ -48,7 +48,7 @@
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link" href="#home">Beranda</a></li>
                     <li class="nav-item"><a class="nav-link" href="#about">Tentang</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#detail">Detail produk</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#spec">Detail produk</a></li>
                 </ul>
 
                 <div class="others-options">
@@ -88,7 +88,7 @@
                         <div class="single-footer-widget">
                             <h3>Kontak Kami</h3>
                             <ul class="quick-links-list justify">
-                                <li><a href="#" target="_blank"><i class="fab fa-whatsapp"></i> Whatsapp : 083180012053</a></li>
+                                <li><a href="https://wa.me/6283180012053" target="_blank"><i class="fab fa-whatsapp"></i> Whatsapp : 083180012053</a></li>
                                 <li><a href="#" target="_blank"><i class="fas fa-phone"></i> No Telp :  083180012053</a></li>
                             </ul>
                         </div>
