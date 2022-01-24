@@ -37,7 +37,7 @@
                 <div class="dot-shape3"><img src="{{asset('assets/img/shape-image/corona-red.png') }}" alt="image"></div>
                 <div class="dot-shape4"><img src="{{asset('assets/img/shape-image/corona-pink-20px.png') }}" alt="image"></div>
                 <div class="dot-shape5"><img src="{{asset('assets/img/shape-image/corona-green-15px.png') }}" alt="image"></div>
-                <div class="dot-shape6"><img src="{{asset('assets/img/shape-image/shield.png') }}" alt="image"></div>
+                <div class="dot-shape6"><img src="{{asset('assets/img/shape-image/corona-orange-15px.png') }}" alt="image"></div>
             </div>
             <!-- End Main Banner Area -->
 

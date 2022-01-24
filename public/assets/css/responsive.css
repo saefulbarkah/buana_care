@@ -149,10 +149,10 @@
     margin-top: 20px;
   }
   .shape1, .shape2, .shape3, .shape4, .shape5, .shape6, .shape7, .shape8, .shape9, .shape10, .shape11 {
-    display: none;
+    /* display: none; */
   }
   .dot-shape1, .dot-shape2, .dot-shape3, .dot-shape4, .dot-shape5, .dot-shape6 {
-    display: none;
+    /* display: none; */
   }
   .headphone-main-banner {
     padding-top: 55%;
