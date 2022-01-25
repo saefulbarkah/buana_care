@@ -174,7 +174,7 @@
                         <div class="headphone-specifications-content">
                             <div class="single-specifications">
                                 <h4>Warna</h4>
-                                <span>Hitam / Putih</span>
+                                <span>Hitam / Putih / Abu</span>
                             </div>
 
                             <div class="single-specifications">
@@ -195,7 +195,7 @@
 
                             <div class="single-specifications">
                                 <h4>Batas pemakaian</h4>
-                                <span>3 sampai 7 kali</span>
+                                <span>1 Hari / 3 Hari / 7 Hari</span>
                             </div>
                         </div>
                     </div>
