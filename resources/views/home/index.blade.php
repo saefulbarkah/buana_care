@@ -214,7 +214,8 @@
     <div class="container">
         <div class="section-title">
             <h2>Produk</h2>
-            <p>Dapatkan diskon 10% dengan membeli <strong class="text-danger">1 box isi 50pcs</strong> setiap
+            <p>Dapatkan <strong class="text-danger">diskon 10%</strong> dengan membeli <strong class="text-danger">1 box
+                    isi 50pcs</strong> setiap
                 pembelianya
             </p>
         </div>
